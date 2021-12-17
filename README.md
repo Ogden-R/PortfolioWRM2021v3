@@ -1,5 +1,5 @@
-# About Rick Mansfield
-## [Visit this live site](https://mansfield-port-v3.netlify.app/)
+# About Rebecca Ogden
+<!-- ## [Visit this live site](https://mansfield-port-v3.netlify.app/) -->
 ### Hi there 👋
 
 <!--
@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... [Underdog Devs](https://www.underdogdevs.org/)
-- 💬 Ask me about coding and I may never shut up. LOL
-- 📫 How to reach me: [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or [LinkedIn](https://www.linkedin.com/in/peacefulrick/)
-- 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/)
-- ⚡ Fun fact: ...really wanted to obtain the domain name VikingsCode.com since my family descended from Germanic Vikings!
+<!-- - 🔭 I’m currently working on ... [Underdog Devs](https://www.underdogdevs.org/) -->
+<!-- - 💬 Ask me about coding and I may never shut up. LOL -->
+<!-- - 📫 How to reach me: [Resume](https://resume.creddle.io/resume/4uxc0m7zngm) or [LinkedIn](https://www.linkedin.com/in/rebecca-ogden/) -->
+<!-- - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/) -->
 
 ## Skills:
 ### FRONTEND: 
@@ -27,9 +26,8 @@ Here are some ideas to get you started:
 ### BACKEND:
 - Node.js, Express, SQL, PostgreSQL, Python, Git CLI, VS Code, Vercel, Heroku, Netlify, Postman
 ### ADDITIONAL SKILLS:
-- Agile Project Management, Algorithms, Architecture, Debugging, Deployment, Technical Project Management
+- 
 
-    ![Vikings Code](/src/photos/Rick-n-Sara-Vikings2jpg.jpg)
 
-## Contributors
-- I'd like to formally thank [Devin Mitchel](devin.a.mitchell@gmail.com) for providing me with the base design to this project. He was an integral part in this overall product.  
+<!-- ## Contributors
+- I'd like to formally thank [Devin Mitchel](devin.a.mitchell@gmail.com) for providing me with the base design to this project. He was an integral part in this overall product.   -->
