@@ -5,9 +5,9 @@ import './main.css';
 
 export default function Main() {
     const user = {
-        name: 'Rick Mansfield',
-        subtitle: 'Full Stack Web Development',
-        subtitle2: '& Computer Science Engineer'
+        name: 'Rebecca Ogden',
+        subtitle: 'Full Stack',
+        subtitle2: 'Web Developer'
     }
 
     return (

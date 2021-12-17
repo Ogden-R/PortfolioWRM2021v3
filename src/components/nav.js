@@ -43,8 +43,8 @@ const StyleNav = styled.div`
 */
 export default function Nav() {
     const user = {
-        name: 'Rick Mansfield', 
-        linkedIn: 'https://www.linkedin.com/in/peacefulrick/'
+        name: 'Rebecca Ogden', 
+        linkedIn: 'https://www.linkedin.com/in/rebecca-ogden/'
     } 
 
     return (

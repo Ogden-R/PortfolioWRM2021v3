@@ -1,10 +1,10 @@
 import React from 'react'
-import Rick from '../photos/RickMansfield.PNG'
+import Becca from '../photos/RebeccaOgden.PNG'
 import styled from "styled-components";
 
 export default function About() {
     const userInfo = {
-        profile_pic: Rick,
+        profile_pic: Becca,
         bio: 'Full Stack Web Developer & Computer Science Engineer with a practical understanding of HTML, CSS (responsive design), JavaScript, JSX, Node JS, React, Redux, SPA\'s, Express, SQLite3, MySQL, Postgres, Heroku, Python, MongoDB, and RESTful API & Responsive Design. Comfortable with New Features Implementation maintains and refactors existing code across various languages, frameworks, and databases. A growth mindset developer that works well with a team or independently in a remote setting',
     }
     
@@ -13,7 +13,7 @@ export default function About() {
         <div id='About'>
             <h3 className='section_title'>- ABOUT -</h3>
             <div className='txt_wrapper'>
-                <img src={userInfo.profile_pic} alt='this is Rick Mansfield!' />
+                <img src={userInfo.profile_pic} alt='this is Rebecca Ogden!' />
                 <p>{userInfo.bio}</p>
             </div>
         </div>

@@ -4,9 +4,9 @@ import styled from 'styled-components'
 
 export default function Contact() {
     const user = {
-        resume: 'https://resume.creddle.io/resume/4uxc0m7zngm', 
-        linkedIn: 'https://www.linkedin.com/in/peacefulrick/',
-        gitHub: 'https://github.com/rickmansfield',
+        resume: '', 
+        linkedIn: 'https://www.linkedin.com/in/rebecca-ogden/',
+        gitHub: 'https://github.com/Ogden-R',
     }
 
     return (
